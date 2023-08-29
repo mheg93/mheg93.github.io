@@ -1,0 +1,123 @@
+.reflection-header {
+    height: 250px;
+    background-image: url('');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.reflection-content {
+    background-color: #F4F4F4;  /* Light grey to contrast with white text */
+    padding: 40px 10%;
+    font-size: 1.1em;  /* Enhancing readability for text-heavy content */
+}
+
+.reflection-content h2 {
+    margin-top: 30px;
+    color: #2F9E44;  /* Green to match the theme */
+}
+
+.reflection-content p {
+    text-align: justify;  /* This helps in creating even block of text, improving readability */
+    line-height: 1.7;     /* Increased line height for better reading experience */
+    margin-bottom: 25px;
+}
+
+
+.back-button {
+    display: block;
+    margin: 20px auto;
+    background-color: #FF7F3D; /* Orange */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav {
+    background-color: #8FC1A1; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #FFA07A; /* Chic light orange */
+}
+
+/*nav section */
+
+.reflecting {
+    background-color: #157691; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.reflecting a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.reflecting a:hover {
+    color: #FFA07A; /* Chic light orange */
+}
+
+
+.realising {
+    background-color: #d9bf30; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.realising a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.realising a:hover {
+    color: #dc3611; /* Chic light orange */
+}
+
+
+
+
+.together {
+    background-color: #1ab331; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.together a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.together a:hover {
+    color: #ffb727; /* Chic light orange */
+}
+
+
+/*nav section */

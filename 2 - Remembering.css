@@ -1,0 +1,227 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+.section{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    background-size: cover;
+    background-attachment: fixed;
+    position: static;
+}
+
+p {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+
+
+
+/* 1st Set */
+#beginning {
+    background-image: url('path_to_image1.jpg');
+    color: #FF7F3D; /* Orange */
+}
+
+#adventures {
+    background-image: url('path_to_image2.jpg');
+    color: #2F9E44; /* Green */
+}
+
+#promise {
+    background-image: url('path_to_image3.jpg');
+    color: #004ECB; /* Soft blue */
+}
+
+/* End */
+
+
+
+
+/* 2nd Set */
+#party{
+    background-image: url('path_to_image3.jpg');
+    color: #FFA672; 
+}
+
+#ring {
+    background-image: url('path_to_image2.jpg');
+    color: #2F9E44; /* Green */
+}
+
+#shame {
+    background-image: url('path_to_image3.jpg');
+    color: #004ECB; /* Soft blue */
+}
+
+/* End */
+
+
+
+
+/* 3rd Set */
+#parked {
+    background-image: url('path_to_image1.jpg');
+    color: #FF7F3D; /* Orange */
+}
+
+#sleepless {
+    background-image: url('path_to_image2.jpg');
+    color: #2F9E44; /* Green */
+}
+
+#facetime {
+    background-image: url('path_to_image2.jpg');
+    color: #004ECB; /* Green */
+}
+/* End */
+
+
+#closing {
+    background-image: url('path_to_image1.jpg');
+    color: #FF7F3D; /* Orange */
+}
+
+
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    max-width: 600px;
+}
+
+
+
+/* Navigation tab */
+nav {
+    background-color: #8FC1A1; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #FFA07A; /* Chic light orange */;
+}
+
+
+.back-button {
+    display: block;
+    margin: 20px auto;
+    background-color: #FF7F3D; /* Orange */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+/*nav section */
+
+/*nav section */
+
+.reflecting {
+    background-color: #157691; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.reflecting a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.reflecting a:hover {
+    color: #FFA07A; /* Chic light orange */
+}
+
+
+.realising {
+    background-color: #d9bf30; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.realising a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.realising a:hover {
+    color: #dc3611; /* Chic light orange */
+}
+
+
+
+
+.together {
+    background-color: #1ab331; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.together a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.together a:hover {
+    color: #ffb727; /* Chic light orange */
+}
+
+
+/*nav section */
+
+
+.together {
+    background-color: #1ab331; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.together a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.together a:hover {
+    color: #ffb727; /* Chic light orange */
+}
+
+
+/*nav section */

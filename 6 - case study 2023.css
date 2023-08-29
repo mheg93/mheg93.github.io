@@ -1,0 +1,181 @@
+.details-header {
+    height: 200px;
+    background: linear-gradient(45deg, #D3E6FF, #FF7F3D, #2F9E44);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.details-section {
+    background-color: #F9F9F9; /* Soft gray to minimize strain */
+    padding: 40px 10%;
+    font-size: 1.1em;
+    border-top: 2px solid #E0E0E0; /* Gentle divider */
+}
+
+.details-section h2 {
+    color: #2F9E44; /* Green header for emphasis */
+    margin-bottom: 20px;
+    border-bottom: 1px solid #D3E6FF; /* Subtle bottom border for definition */
+    padding-bottom: 10px;
+}
+
+.details-section p {
+    text-align: justify;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.back-button {
+    display: block;
+    margin: 50px auto;
+    padding: 10px 20px;
+    background-color: #2F9E44;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+}
+
+.back-button:hover {
+    background-color: #FF7F3D;
+}
+
+
+
+/*necklace-->*/
+
+.odd{
+    background-color: rgb(235, 145, 9);
+    color: white;
+}
+
+.odd h2{
+color: #1e6036;
+}
+
+#necklace h2 {
+    color: #984330; /* Green header for emphasis */
+    margin-bottom: 20px;
+    border-bottom: 1px solid #D3E6FF; /* Subtle bottom border for definition */
+    padding-bottom: 10px;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+#mistake h2 {
+    color: #bc0d0d; /* Green header for emphasis */
+    margin-bottom: 20px;
+    border-bottom: 1px solid #D3E6FF; /* Subtle bottom border for definition */
+    padding-bottom: 10px;
+}
+
+#personality h2 {
+    color: #a6b025; /* Green header for emphasis */
+    margin-bottom: 20px;
+    border-bottom: 1px solid #D3E6FF; /* Subtle bottom border for definition */
+    padding-bottom: 10px;
+}
+
+
+
+.back-button {
+    display: block;
+    margin: 20px auto;
+    background-color: #FF7F3D; /* Orange */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+nav {
+    background-color: #8FC1A1; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #FFA07A; /* Chic light orange */
+}
+
+
+
+/*nav section */
+
+.reflecting {
+    background-color: #157691; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.reflecting a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.reflecting a:hover {
+    color: #FFA07A; /* Chic light orange */
+}
+
+
+.realising {
+    background-color: #d9bf30; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.realising a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.realising a:hover {
+    color: #dc3611; /* Chic light orange */
+}
+
+
+
+
+.together {
+    background-color: #1ab331; /* Modern light green */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.together a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.together a:hover {
+    color: #ffb727; /* Chic light orange */
+}
+
+
+/*nav section */
