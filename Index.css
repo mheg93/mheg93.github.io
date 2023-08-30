@@ -5,7 +5,7 @@ body {
 }
 
 header.parallax {
-    background-image: url(); /* Add a suitable romantic image here */
+    background-image: url("Drawings/Index background.jpg"); /* Add a suitable romantic image here */
     height: 500px;
     background-attachment: fixed;
     background-size: cover;
