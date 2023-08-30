@@ -174,5 +174,18 @@ nav a:hover {
     color: #ffb727; /* Chic light orange */
 }
 
+.back-button {
+    display: block;
+    margin: 20px auto;
+    background-color: #FF7F3D; /* Orange */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
 
 /*nav section */
